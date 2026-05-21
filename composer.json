@@ -1,5 +1,5 @@
 {
-  "name": "ahumeb/ci4-log-toolkit",
+  "name": "ahumeb/ci4-api-log-reader-v2",
   "description": "Log tookit to expose CodeIgniter 4 project logs via API.",
   "version": "1.0.0",
   "type": "library",
