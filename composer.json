@@ -1,0 +1,16 @@
+{
+  "name": "andreshume/ci4-log-toolkit",
+  "description": "Log tookit to expose CodeIgniter 4 project logs via API.",
+  "version": "1.0.0",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Encender\\LogsAPI\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.1",
+    "codeigniter4/framework": "^4"
+  }
+}
